@@ -96,7 +96,7 @@ function TodoList() {
 
   return (
     <div className="container">
-      <h1>📝 투두 리스트 </h1>
+      <h1>📝 Todo List </h1>
       <div className="input-box">
         <input
           type="text"
